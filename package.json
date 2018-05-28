@@ -1,0 +1,22 @@
+{
+  "name": "ng-workshops",
+  "version": "1.0.0",
+  "description": "ng-workshops",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BartOSk/ng-workshops.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BartOSk/ng-workshops/issues"
+  },
+  "homepage": "https://github.com/BartOSk/ng-workshops#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
